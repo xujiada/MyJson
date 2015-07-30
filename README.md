@@ -1,7 +1,7 @@
 # MyJson
 
 A simple example of Json grammar：<br>
-'{<br>
+{<br>
 　　　　　　　　"xujiada": <br>
 　　　　[<br>
 　　　　　　　　{<br>
@@ -25,7 +25,6 @@ A simple example of Json grammar：<br>
 　　　　　　　　}<br>
 　　　　]<br>
 }<br>
-'
 
 Test Platform：<br>
 Visual C++ 2013 on Windows (64-bit)<br>
